@@ -9,23 +9,20 @@ Isolation Forest (statistical method)
 LSTM Autoencoder (deep learning method)
 
 ⚙️ How to Run the Code
+
+
 1. Install Dependencies
 
-Run the following in your terminal or notebook:
+ Run the following in your terminal or notebook:
 
-pip install numpy pandas matplotlib seaborn scikit-learn statsmodels tensorflow
+ pip install numpy pandas matplotlib seaborn scikit-learn statsmodels tensorflow
 
+ If your system doesn’t support TensorFlow GPU, install the CPU-only version:
 
-If your system doesn’t support TensorFlow GPU, install the CPU-only version:
-
-pip install tensorflow-cpu
+ pip install tensorflow-cpu
 
 2. Run the Script
-python TimeSeries_Anomaly_Detection_IoT_Assignment.py
-
-
-or, if you’re using Jupyter Notebook,
-open the script as a notebook and run all cells sequentially.
+ python TimeSeries_Anomaly_Detection_IoT_Assignment.py or, if you’re using Jupyter Notebook,open the script as a notebook and run all cells sequentially.
 
 3. Outputs
 
@@ -40,8 +37,7 @@ Trained model files (if applicable): saved under ./models/
 
 4. Optional: Use a Real Dataset
 
-By default, synthetic data is generated with fake anomalies.
-To use your own CSV sensor data:
+By default, synthetic data is generated with fake anomalies. To use your own CSV sensor data:
 
 Open the script.
 
