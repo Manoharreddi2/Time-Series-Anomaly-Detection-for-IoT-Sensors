@@ -49,12 +49,7 @@ PATH_TO_CSV = 'your_dataset.csv'
 
 Make sure your CSV has a timestamp column and at least one sensor column.
 
-🧾 Project Files
-File	Description
-TimeSeries_Anomaly_Detection_IoT_Assignment.py	Main Python script (end-to-end pipeline)
-models/summary_results.json	Evaluation metrics and results
-README.md	How to run and project overview
-(optional) your_dataset.csv	Real IoT sensor data
+
 
 
 
