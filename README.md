@@ -1,12 +1,12 @@
 🧠 Time Series Anomaly Detection for IoT Sensors
 📋 Project Overview
 
-This project builds an AI-based anomaly detection system for IoT sensor data in manufacturing.
-It identifies unusual readings that may indicate equipment faults or maintenance needs using:
+  This project builds an AI-based anomaly detection system for IoT sensor data in manufacturing.
+  It identifies unusual readings that may indicate equipment faults or maintenance needs using:
 
-Isolation Forest (statistical method)
+  Isolation Forest (statistical method)
 
-LSTM Autoencoder (deep learning method)
+  LSTM Autoencoder (deep learning method)
 
 ⚙️ How to Run the Code
 
@@ -26,11 +26,9 @@ LSTM Autoencoder (deep learning method)
 
 3. Outputs
 
-Plots: EDA visuals and anomaly detection graphs will appear inline or in your window.
+ Plots: EDA visuals and anomaly detection graphs will appear inline or in your window.
 
-Results file: Model evaluation summary is saved to
-
-./models/summary_results.json
+ Results file: Model evaluation summary is saved to ./models/summary_results.json
 
 
 Trained model files (if applicable): saved under ./models/
