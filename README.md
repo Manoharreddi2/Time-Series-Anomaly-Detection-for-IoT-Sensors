@@ -109,12 +109,26 @@ This project can be used for:
 Outputs :
 
 <img width="1503" height="481" alt="Screenshot 2025-10-23 171458" src="https://github.com/user-attachments/assets/623e2ac8-c1d8-43c1-9570-1127a1d3a518" />
+
+
 <img width="1501" height="472" alt="Screenshot 2025-10-23 171524" src="https://github.com/user-attachments/assets/b53854c7-6f3f-430d-a4ed-70046030d1a1" />
+
+
 <img width="1562" height="527" alt="Screenshot 2025-10-23 171547" src="https://github.com/user-attachments/assets/56406444-46a9-4290-a00c-ebf8f012feb1" />
+
+
 <img width="1472" height="464" alt="Screenshot 2025-10-23 171626" src="https://github.com/user-attachments/assets/68d2adb0-d09c-4819-a16b-cce6a4d17603" />
+
+
 <img width="1006" height="526" alt="Screenshot 2025-10-23 171641" src="https://github.com/user-attachments/assets/1d70bf58-41b4-43a0-9618-5ccc61cd1e77" />
+
+
 <img width="1566" height="545" alt="Screenshot 2025-10-23 171703" src="https://github.com/user-attachments/assets/6092474c-edf9-4156-835b-70fcdc463395" />
+
+
 <img width="792" height="467" alt="Screenshot 2025-10-23 171743" src="https://github.com/user-attachments/assets/293f4077-d128-4a72-a8a9-d860a4a019b8" />
+
+
 <img width="685" height="509" alt="Screenshot 2025-10-23 171812" src="https://github.com/user-attachments/assets/fed19301-5faa-4cdd-aa82-edb9463e0162" />
 
 
