@@ -13,6 +13,12 @@ It helps identify when machines behave abnormally — which could mean a fault o
 ⚙️ How to Run
 
 
+
+
+
+
+
+
 🪄 Step 1: Install Required Libraries
 
  Run this in your terminal or Jupyter Notebook:
@@ -23,6 +29,13 @@ It helps identify when machines behave abnormally — which could mean a fault o
 If TensorFlow doesn’t install properly, try:
 
 pip install tensorflow-cpu
+
+
+
+
+
+
+
 
 🚀 Step 2: Run the Code
 
@@ -37,6 +50,15 @@ Open the .ipynb file
 
 Click Run All
 
+
+
+
+
+
+
+
+
+
 📈 Step 3: View Results
 
  Graphs will show normal vs anomalous data points
@@ -46,6 +68,13 @@ Click Run All
  Results and charts may be saved in the project folder
 
 
+
+
+
+
+
+
+
 📊 Outputs You’ll See
 
 🧹 Cleaned and preprocessed sensor data
@@ -53,6 +82,15 @@ Click Run All
 📉 Time series plots showing anomalies
 
 📊 Model comparison metrics (Precision, Recall, F1-score)
+
+
+
+
+
+
+
+
+
 
 💡 Use Cases
 
