@@ -11,6 +11,8 @@ It helps identify when machines behave abnormally — which could mean a fault o
 🧬 LSTM Autoencoder – Learns normal patterns and detects when data doesn’t match them.
 
 ⚙️ How to Run
+
+
 🪄 Step 1: Install Required Libraries
 
  Run this in your terminal or Jupyter Notebook:
